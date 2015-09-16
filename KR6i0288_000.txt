@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 諸法無行經
+#+DATE: 2015-08-30 20:15:15.579167
+#+PROPERTY: JUAN 0
